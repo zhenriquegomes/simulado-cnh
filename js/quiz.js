@@ -177,13 +177,13 @@ function renderEstudoQuestion() {
     document.getElementById('estudo-enunciado').textContent = q.enunciado;
 
     const placaEl = document.getElementById('estudo-placa');
-    placaEl.src = '';
+    placaEl.onload = null;
+    placaEl.onerror = null;
+    placaEl.hidden = true;
     if (q.imagem_placa) {
-        placaEl.src = q.imagem_placa;
+        placaEl.onload = () => { placaEl.hidden = false; };
         placaEl.onerror = () => { placaEl.hidden = true; };
-        placaEl.hidden = false;
-    } else {
-        placaEl.hidden = true;
+        placaEl.src = q.imagem_placa;
     }
 
     const altsEl = document.getElementById('estudo-alternativas');
