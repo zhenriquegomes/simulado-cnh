@@ -177,6 +177,7 @@ function renderEstudoQuestion() {
     document.getElementById('estudo-enunciado').textContent = q.enunciado;
 
     const placaEl = document.getElementById('estudo-placa');
+    placaEl.src = '';
     if (q.imagem_placa) {
         placaEl.src = q.imagem_placa;
         placaEl.onerror = () => { placaEl.hidden = true; };
@@ -244,6 +245,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById('btn-estudo-proximo')?.addEventListener('click', () => {
         if (!estudoState) return;
+        document.getElementById('btn-estudo-proximo').hidden = true;
         estudoState.current++;
         if (estudoState.current >= estudoState.questions.length) {
             showScreen('home');
