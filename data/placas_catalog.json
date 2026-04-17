@@ -1,0 +1,774 @@
+[
+  {
+    "name": "Regulamentação",
+    "description": "Indicam as condições, proibições, obrigações ou restrições ao uso da via.",
+    "plates": [
+      {
+        "code": "R-1",
+        "description": "Parada obrigatória",
+        "image": "assets/placas/R-1.svg"
+      },
+      {
+        "code": "R-2",
+        "description": "Dê a preferência",
+        "image": "assets/placas/R-2.svg"
+      },
+      {
+        "code": "R-3",
+        "description": "Sentido proibido",
+        "image": "assets/placas/R-3.svg"
+      },
+      {
+        "code": "R-4a",
+        "description": "Proibido virar à esquerda",
+        "image": "assets/placas/R-4a.svg"
+      },
+      {
+        "code": "R-4b",
+        "description": "Proibido virar à direita",
+        "image": "assets/placas/R-4b.svg"
+      },
+      {
+        "code": "R-5a",
+        "description": "Proibido retornar à esquerda",
+        "image": "assets/placas/R-5a.svg"
+      },
+      {
+        "code": "R-5b",
+        "description": "Proibido retornar à direita",
+        "image": "assets/placas/R-5b.svg"
+      },
+      {
+        "code": "R-6a",
+        "description": "Proibido estacionar",
+        "image": "assets/placas/R-6a.svg"
+      },
+      {
+        "code": "R-6b",
+        "description": "Estacionamento regulamentado",
+        "image": "assets/placas/R-6b.svg"
+      },
+      {
+        "code": "R-6c",
+        "description": "Proibido parar e estacionar",
+        "image": "assets/placas/R-6c.svg"
+      },
+      {
+        "code": "R-7",
+        "description": "Proibido ultrapassar",
+        "image": "assets/placas/R-7.svg"
+      },
+      {
+        "code": "R-8a",
+        "description": "Proibido mudar de faixa — esquerda para direita",
+        "image": "assets/placas/R-8a.svg"
+      },
+      {
+        "code": "R-8b",
+        "description": "Proibido mudar de faixa — direita para esquerda",
+        "image": "assets/placas/R-8b.svg"
+      },
+      {
+        "code": "R-9",
+        "description": "Proibido trânsito de caminhões",
+        "image": "assets/placas/R-9.svg"
+      },
+      {
+        "code": "R-10",
+        "description": "Proibido trânsito de veículos automotores",
+        "image": "assets/placas/R-10.svg"
+      },
+      {
+        "code": "R-11",
+        "description": "Proibido trânsito de veículos de tração animal",
+        "image": "assets/placas/R-11.svg"
+      },
+      {
+        "code": "R-12",
+        "description": "Proibido trânsito de bicicletas",
+        "image": "assets/placas/R-12.svg"
+      },
+      {
+        "code": "R-13",
+        "description": "Proibido trânsito de tratores e máquinas de obras",
+        "image": "assets/placas/R-13.svg"
+      },
+      {
+        "code": "R-14",
+        "description": "Peso bruto total máximo permitido",
+        "image": "assets/placas/R-14.svg"
+      },
+      {
+        "code": "R-15",
+        "description": "Altura máxima permitida",
+        "image": "assets/placas/R-15.svg"
+      },
+      {
+        "code": "R-16",
+        "description": "Largura máxima permitida",
+        "image": "assets/placas/R-16.svg"
+      },
+      {
+        "code": "R-17",
+        "description": "Peso máximo permitido por eixo",
+        "image": "assets/placas/R-17.svg"
+      },
+      {
+        "code": "R-18",
+        "description": "Comprimento máximo permitido",
+        "image": "assets/placas/R-18.svg"
+      },
+      {
+        "code": "R-19",
+        "description": "Velocidade máxima permitida",
+        "image": "assets/placas/R-19.svg"
+      },
+      {
+        "code": "R-20",
+        "description": "Proibido acionar buzina ou sinal sonoro",
+        "image": "assets/placas/R-20.svg"
+      },
+      {
+        "code": "R-21",
+        "description": "Alfândega",
+        "image": "assets/placas/R-21.svg"
+      },
+      {
+        "code": "R-22",
+        "description": "Uso obrigatório de corrente",
+        "image": "assets/placas/R-22.svg"
+      },
+      {
+        "code": "R-23",
+        "description": "Conserve-se à direita",
+        "image": "assets/placas/R-23.svg"
+      },
+      {
+        "code": "R-24a",
+        "description": "Sentido de circulação da via/pista",
+        "image": "assets/placas/R-24a.svg"
+      },
+      {
+        "code": "R-24b",
+        "description": "Passagem obrigatória",
+        "image": "assets/placas/R-24b.svg"
+      },
+      {
+        "code": "R-25a",
+        "description": "Vire à esquerda",
+        "image": "assets/placas/R-25a.svg"
+      },
+      {
+        "code": "R-25b",
+        "description": "Vire à direita",
+        "image": "assets/placas/R-25b.svg"
+      },
+      {
+        "code": "R-25c",
+        "description": "Siga em frente ou à esquerda",
+        "image": "assets/placas/R-25c.svg"
+      },
+      {
+        "code": "R-25d",
+        "description": "Siga em frente ou à direita",
+        "image": "assets/placas/R-25d.svg"
+      },
+      {
+        "code": "R-26",
+        "description": "Siga em frente",
+        "image": "assets/placas/R-26.svg"
+      },
+      {
+        "code": "R-27",
+        "description": "Ônibus e veículos de grande porte: mantenha-se à direita",
+        "image": "assets/placas/R-27.svg"
+      },
+      {
+        "code": "R-28",
+        "description": "Duplo sentido de circulação",
+        "image": "assets/placas/R-28.svg"
+      },
+      {
+        "code": "R-29",
+        "description": "Proibido trânsito de pedestres",
+        "image": "assets/placas/R-29.svg"
+      },
+      {
+        "code": "R-30",
+        "description": "Pedestre, ande pela esquerda",
+        "image": "assets/placas/R-30.svg"
+      },
+      {
+        "code": "R-31",
+        "description": "Pedestre, ande pela direita",
+        "image": "assets/placas/R-31.svg"
+      },
+      {
+        "code": "R-32",
+        "description": "Circulação exclusiva de ônibus",
+        "image": "assets/placas/R-32.svg"
+      },
+      {
+        "code": "R-33",
+        "description": "Sentido de circulação na rotatória",
+        "image": "assets/placas/R-33.svg"
+      },
+      {
+        "code": "R-34",
+        "description": "Circulação exclusiva de bicicletas",
+        "image": "assets/placas/R-34.svg"
+      },
+      {
+        "code": "R-35a",
+        "description": "Ciclista, transite à esquerda",
+        "image": "assets/placas/R-35a.svg"
+      },
+      {
+        "code": "R-35b",
+        "description": "Ciclista, transite à direita",
+        "image": "assets/placas/R-35b.svg"
+      },
+      {
+        "code": "R-36a",
+        "description": "Ciclistas à esquerda, pedestres à direita",
+        "image": "assets/placas/R-36a.svg"
+      },
+      {
+        "code": "R-36b",
+        "description": "Pedestres à esquerda, ciclistas à direita",
+        "image": "assets/placas/R-36b.svg"
+      },
+      {
+        "code": "R-37",
+        "description": "Proibido trânsito de motocicletas, motonetas e ciclomotores",
+        "image": "assets/placas/R-37.svg"
+      },
+      {
+        "code": "R-38",
+        "description": "Proibido trânsito de ônibus",
+        "image": "assets/placas/R-38.svg"
+      },
+      {
+        "code": "R-39",
+        "description": "Circulação exclusiva de caminhão",
+        "image": "assets/placas/R-39.svg"
+      },
+      {
+        "code": "R-40",
+        "description": "Trânsito proibido a carros de mão",
+        "image": "assets/placas/R-40.svg"
+      },
+      {
+        "code": "R-41",
+        "description": "Circulação exclusiva de VLT / bonde",
+        "image": "assets/placas/R-41.svg"
+      },
+      {
+        "code": "R-42a",
+        "description": "Ciclistas à esquerda, VLT à direita",
+        "image": "assets/placas/R-42a.svg"
+      },
+      {
+        "code": "R-42b",
+        "description": "Ciclistas à direita, VLT à esquerda",
+        "image": "assets/placas/R-42b.svg"
+      },
+      {
+        "code": "R-43a",
+        "description": "Veículos à esquerda, VLT à direita",
+        "image": "assets/placas/R-43a.svg"
+      },
+      {
+        "code": "R-43b",
+        "description": "Veículos à direita, VLT à esquerda",
+        "image": "assets/placas/R-43b.svg"
+      },
+      {
+        "code": "R-44",
+        "description": "Circulação compartilhada de ciclistas e pedestres",
+        "image": "assets/placas/R-44.svg"
+      }
+    ]
+  },
+  {
+    "name": "Advertência",
+    "description": "Alertam os condutores sobre condições potencialmente perigosas.",
+    "plates": [
+      {
+        "code": "A-1a",
+        "description": "Curva acentuada à esquerda",
+        "image": "assets/placas/A-1a.svg"
+      },
+      {
+        "code": "A-1b",
+        "description": "Curva acentuada à direita",
+        "image": "assets/placas/A-1b.svg"
+      },
+      {
+        "code": "A-2a",
+        "description": "Curva à esquerda",
+        "image": "assets/placas/A-2a.svg"
+      },
+      {
+        "code": "A-2b",
+        "description": "Curva à direita",
+        "image": "assets/placas/A-2b.svg"
+      },
+      {
+        "code": "A-3a",
+        "description": "Pista sinuosa à esquerda",
+        "image": "assets/placas/A-3a.svg"
+      },
+      {
+        "code": "A-3b",
+        "description": "Pista sinuosa à direita",
+        "image": "assets/placas/A-3b.svg"
+      },
+      {
+        "code": "A-4a",
+        "description": "Curva acentuada em \"S\" à esquerda",
+        "image": "assets/placas/A-4a.svg"
+      },
+      {
+        "code": "A-4b",
+        "description": "Curva acentuada em \"S\" à direita",
+        "image": "assets/placas/A-4b.svg"
+      },
+      {
+        "code": "A-5a",
+        "description": "Curva em \"S\" à esquerda",
+        "image": "assets/placas/A-5a.svg"
+      },
+      {
+        "code": "A-5b",
+        "description": "Curva em \"S\" à direita",
+        "image": "assets/placas/A-5b.svg"
+      },
+      {
+        "code": "A-6",
+        "description": "Cruzamento de vias",
+        "image": "assets/placas/A-6.svg"
+      },
+      {
+        "code": "A-7a",
+        "description": "Via lateral à esquerda",
+        "image": "assets/placas/A-7a.svg"
+      },
+      {
+        "code": "A-7b",
+        "description": "Via lateral à direita",
+        "image": "assets/placas/A-7b.svg"
+      },
+      {
+        "code": "A-8",
+        "description": "Interseção em \"T\"",
+        "image": "assets/placas/A-8.svg"
+      },
+      {
+        "code": "A-9",
+        "description": "Bifurcação em \"Y\"",
+        "image": "assets/placas/A-9.svg"
+      },
+      {
+        "code": "A-10a",
+        "description": "Entroncamento oblíquo à esquerda",
+        "image": "assets/placas/A-10a.svg"
+      },
+      {
+        "code": "A-10b",
+        "description": "Entroncamento oblíquo à direita",
+        "image": "assets/placas/A-10b.svg"
+      },
+      {
+        "code": "A-11a",
+        "description": "Junções sucessivas contrárias primeira à esquerda",
+        "image": "assets/placas/A-11a.svg"
+      },
+      {
+        "code": "A-11b",
+        "description": "Junções sucessivas contrárias primeira à direita",
+        "image": "assets/placas/A-11b.svg"
+      },
+      {
+        "code": "A-12",
+        "description": "Interseção em círculo",
+        "image": "assets/placas/A-12.svg"
+      },
+      {
+        "code": "A-13a",
+        "description": "Confluência à esquerda",
+        "image": "assets/placas/A-13a.svg"
+      },
+      {
+        "code": "A-13b",
+        "description": "Confluência à direita",
+        "image": "assets/placas/A-13b.svg"
+      },
+      {
+        "code": "A-14",
+        "description": "Semáforo à frente",
+        "image": "assets/placas/A-14.svg"
+      },
+      {
+        "code": "A-15",
+        "description": "Parada obrigatória à frente",
+        "image": "assets/placas/A-15.svg"
+      },
+      {
+        "code": "A-16",
+        "description": "Bonde / VLT",
+        "image": "assets/placas/A-16.svg"
+      },
+      {
+        "code": "A-17",
+        "description": "Pista irregular",
+        "image": "assets/placas/A-17.svg"
+      },
+      {
+        "code": "A-18",
+        "description": "Saliência ou lombada",
+        "image": "assets/placas/A-18.svg"
+      },
+      {
+        "code": "A-19",
+        "description": "Depressão",
+        "image": "assets/placas/A-19.svg"
+      },
+      {
+        "code": "A-20a",
+        "description": "Declive acentuado",
+        "image": "assets/placas/A-20a.svg"
+      },
+      {
+        "code": "A-20b",
+        "description": "Aclive acentuado",
+        "image": "assets/placas/A-20b.svg"
+      },
+      {
+        "code": "A-21a",
+        "description": "Estreitamento de pista ao centro",
+        "image": "assets/placas/A-21a.svg"
+      },
+      {
+        "code": "A-21b",
+        "description": "Estreitamento de pista à esquerda",
+        "image": "assets/placas/A-21b.svg"
+      },
+      {
+        "code": "A-21c",
+        "description": "Estreitamento de pista à direita",
+        "image": "assets/placas/A-21c.svg"
+      },
+      {
+        "code": "A-21d",
+        "description": "Alargamento de pista à esquerda",
+        "image": "assets/placas/A-21d.svg"
+      },
+      {
+        "code": "A-21e",
+        "description": "Alargamento de pista à direita",
+        "image": "assets/placas/A-21e.svg"
+      },
+      {
+        "code": "A-22",
+        "description": "Ponte estreita",
+        "image": "assets/placas/A-22.svg"
+      },
+      {
+        "code": "A-23",
+        "description": "Ponte móvel",
+        "image": "assets/placas/A-23.svg"
+      },
+      {
+        "code": "A-24",
+        "description": "Obras",
+        "image": "assets/placas/A-24.svg"
+      },
+      {
+        "code": "A-25",
+        "description": "Mão dupla adiante",
+        "image": "assets/placas/A-25.svg"
+      },
+      {
+        "code": "A-26a",
+        "description": "Sentido único",
+        "image": "assets/placas/A-26a.svg"
+      },
+      {
+        "code": "A-26b",
+        "description": "Sentido duplo",
+        "image": "assets/placas/A-26b.svg"
+      },
+      {
+        "code": "A-27",
+        "description": "Área com desmoronamento",
+        "image": "assets/placas/A-27.svg"
+      },
+      {
+        "code": "A-28",
+        "description": "Pista escorregadia",
+        "image": "assets/placas/A-28.svg"
+      },
+      {
+        "code": "A-29",
+        "description": "Projeção de cascalho",
+        "image": "assets/placas/A-29.svg"
+      },
+      {
+        "code": "A-30a",
+        "description": "Trânsito de ciclistas",
+        "image": "assets/placas/A-30a.svg"
+      },
+      {
+        "code": "A-30b",
+        "description": "Passagem sinalizada de ciclistas",
+        "image": "assets/placas/A-30b.svg"
+      },
+      {
+        "code": "A-30c",
+        "description": "Trânsito compartilhado por ciclistas e pedestres",
+        "image": "assets/placas/A-30c.svg"
+      },
+      {
+        "code": "A-31",
+        "description": "Trânsito de tratores ou maquinaria agrícola",
+        "image": "assets/placas/A-31.svg"
+      },
+      {
+        "code": "A-32a",
+        "description": "Trânsito de pedestres",
+        "image": "assets/placas/A-32a.svg"
+      },
+      {
+        "code": "A-32b",
+        "description": "Passagem sinalizada de pedestres",
+        "image": "assets/placas/A-32b.svg"
+      },
+      {
+        "code": "A-33a",
+        "description": "Área escolar",
+        "image": "assets/placas/A-33a.svg"
+      },
+      {
+        "code": "A-33b",
+        "description": "Passagem sinalizada de escolares",
+        "image": "assets/placas/A-33b.svg"
+      },
+      {
+        "code": "A-34",
+        "description": "Crianças",
+        "image": "assets/placas/A-34.svg"
+      },
+      {
+        "code": "A-35",
+        "description": "Animais",
+        "image": "assets/placas/A-35.svg"
+      },
+      {
+        "code": "A-36",
+        "description": "Animais selvagens",
+        "image": "assets/placas/A-36.svg"
+      },
+      {
+        "code": "A-37",
+        "description": "Altura limitada",
+        "image": "assets/placas/A-37.svg"
+      },
+      {
+        "code": "A-38",
+        "description": "Largura limitada",
+        "image": "assets/placas/A-38.svg"
+      },
+      {
+        "code": "A-39",
+        "description": "Passagem de nível sem barreira",
+        "image": "assets/placas/A-39.svg"
+      },
+      {
+        "code": "A-40",
+        "description": "Passagem de nível com barreira",
+        "image": "assets/placas/A-40.svg"
+      },
+      {
+        "code": "A-41",
+        "description": "Cruz de Santo André",
+        "image": "assets/placas/A-41.svg"
+      },
+      {
+        "code": "A-42a",
+        "description": "Início de pista dupla",
+        "image": "assets/placas/A-42a.svg"
+      },
+      {
+        "code": "A-42b",
+        "description": "Fim de pista dupla",
+        "image": "assets/placas/A-42b.svg"
+      },
+      {
+        "code": "A-42c",
+        "description": "Pista dividida",
+        "image": "assets/placas/A-42c.svg"
+      },
+      {
+        "code": "A-43",
+        "description": "Aeroporto",
+        "image": "assets/placas/A-43.svg"
+      },
+      {
+        "code": "A-44",
+        "description": "Vento lateral",
+        "image": "assets/placas/A-44.svg"
+      },
+      {
+        "code": "A-45",
+        "description": "Rua sem saída",
+        "image": "assets/placas/A-45.svg"
+      },
+      {
+        "code": "A-46",
+        "description": "Peso bruto total limitado",
+        "image": "assets/placas/A-46.svg"
+      },
+      {
+        "code": "A-47",
+        "description": "Peso limitado por eixo",
+        "image": "assets/placas/A-47.svg"
+      },
+      {
+        "code": "A-48",
+        "description": "Comprimento limitado",
+        "image": "assets/placas/A-48.svg"
+      },
+      {
+        "code": "A-49a",
+        "description": "Pedestres à esquerda, VLT à direita",
+        "image": "assets/placas/A-49a.svg"
+      },
+      {
+        "code": "A-49b",
+        "description": "Pedestres à direita, VLT à esquerda",
+        "image": "assets/placas/A-49b.svg"
+      },
+      {
+        "code": "A-50a",
+        "description": "Veículos à esquerda, VLT à direita",
+        "image": "assets/placas/A-50a.svg"
+      },
+      {
+        "code": "A-50b",
+        "description": "Veículos à direita, VLT à esquerda",
+        "image": "assets/placas/A-50b.svg"
+      }
+    ]
+  },
+  {
+    "name": "Serviços Auxiliares",
+    "description": "Indicam a existência de serviços de apoio ao usuário da via.",
+    "plates": [
+      {
+        "code": "SAU-06",
+        "description": "Serviço Telefônico",
+        "image": "assets/placas/SAU-06.svg"
+      },
+      {
+        "code": "SAU-08",
+        "description": "Borracharia",
+        "image": "assets/placas/SAU-08.svg"
+      },
+      {
+        "code": "SAU-09",
+        "description": "Abastecimento",
+        "image": "assets/placas/SAU-09.svg"
+      },
+      {
+        "code": "SAU-10",
+        "description": "Pronto Socorro",
+        "image": "assets/placas/SAU-10.svg"
+      },
+      {
+        "code": "SAU-12",
+        "description": "Restaurante",
+        "image": "assets/placas/SAU-12.svg"
+      },
+      {
+        "code": "SAU-13",
+        "description": "Hotel",
+        "image": "assets/placas/SAU-13.svg"
+      },
+      {
+        "code": "SAU-18",
+        "description": "Pedágio",
+        "image": "assets/placas/SAU-18.svg"
+      },
+      {
+        "code": "SAU-19",
+        "description": "Terminal Rodoviário",
+        "image": "assets/placas/SAU-19.svg"
+      },
+      {
+        "code": "SAU-21",
+        "description": "Aeroporto",
+        "image": "assets/placas/SAU-21.svg"
+      },
+      {
+        "code": "SAU-26",
+        "description": "Ponto de Parada",
+        "image": "assets/placas/SAU-26.svg"
+      }
+    ]
+  },
+  {
+    "name": "Atrativos Turísticos — Recreação",
+    "description": "Indicam atrativos de recreação e lazer.",
+    "plates": [
+      {
+        "code": "TAR-03",
+        "description": "Parque Urbano",
+        "image": "assets/placas/TAR-03.svg"
+      }
+    ]
+  },
+  {
+    "name": "Atrativos Turísticos — Histórico/Cultural",
+    "description": "Indicam atrativos históricos e culturais.",
+    "plates": [
+      {
+        "code": "THC-05",
+        "description": "Museu",
+        "image": "assets/placas/THC-05.svg"
+      },
+      {
+        "code": "THC-11",
+        "description": "Biblioteca",
+        "image": "assets/placas/THC-11.svg"
+      }
+    ]
+  },
+  {
+    "name": "Atrativos Turísticos — Naturais",
+    "description": "Indicam atrativos naturais.",
+    "plates": [
+      {
+        "code": "TNA-05",
+        "description": "Cachoeira",
+        "image": "assets/placas/TNA-05.svg"
+      },
+      {
+        "code": "TNA-06",
+        "description": "Patrimônio Natural",
+        "image": "assets/placas/TNA-06.svg"
+      }
+    ]
+  },
+  {
+    "name": "Acessibilidade",
+    "description": "Indicam rotas, espaços e equipamentos acessíveis.",
+    "plates": [
+      {
+        "code": "DEF-01",
+        "description": "Símbolo Internacional de Acesso",
+        "image": "assets/placas/DEF-01.svg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulado CNH — BNQ Oficial</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="error-msg" hidden>Erro ao carregar questões. Verifique o arquivo data/questoes.json.</div>
+
+    <header id="global-header" hidden>
+        <button id="btn-back-home">← Início</button>
+        <span id="header-title"></span>
+    </header>
+
+    <section id="screen-home" class="screen">
+        <h1>Simulado CNH</h1>
+        <p>1.482 questões oficiais do BNQ</p>
+        <button id="btn-prova">Modo Prova</button>
+        <button id="btn-estudo">Modo Estudo</button>
+        <button id="btn-placas">Galeria de Placas</button>
+    </section>
+
+    <section id="screen-prova" class="screen" hidden>
+        <div class="prova-bar">
+            <span id="prova-progress"></span>
+            <span id="prova-timer">40:00</span>
+        </div>
+        <div class="question-card">
+            <img id="prova-placa" hidden alt="Placa" onerror="this.style.display='none'">
+            <p id="prova-enunciado"></p>
+        </div>
+        <div id="prova-alternativas"></div>
+        <div class="nav-btns">
+            <button id="btn-prova-anterior">← Anterior</button>
+            <button id="btn-prova-proximo">Próxima →</button>
+        </div>
+    </section>
+
+    <section id="screen-resultado" class="screen" hidden>
+        <p id="resultado-placar"></p>
+        <p id="resultado-status"></p>
+        <div id="resultado-lista"></div>
+    </section>
+
+    <section id="screen-estudo-config" class="screen" hidden>
+        <h2>Modo Estudo</h2>
+        <p>Selecione os módulos:</p>
+        <div id="estudo-modulos"></div>
+        <button id="btn-iniciar-estudo">Iniciar</button>
+    </section>
+
+    <section id="screen-estudo-questao" class="screen" hidden>
+        <span id="estudo-progress"></span>
+        <div class="question-card">
+            <img id="estudo-placa" hidden alt="Placa" onerror="this.style.display='none'">
+            <p id="estudo-enunciado"></p>
+        </div>
+        <div id="estudo-alternativas"></div>
+        <div id="estudo-feedback" hidden>
+            <span id="estudo-feedback-icon"></span>
+            <p id="estudo-explicacao"></p>
+        </div>
+        <button id="btn-estudo-proximo" hidden>Próxima →</button>
+    </section>
+
+    <section id="screen-placas" class="screen" hidden>
+        <input id="placas-search" type="search" placeholder="Buscar por código ou descrição...">
+        <p id="placas-count"></p>
+        <div id="placas-grid"></div>
+    </section>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
