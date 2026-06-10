@@ -20,6 +20,7 @@
         <button id="btn-prova">Modo Prova</button>
         <button id="btn-estudo">Modo Estudo</button>
         <button id="btn-placas">Galeria de Placas</button>
+        <button id="btn-infracoes">Infrações</button>
     </section>
 
     <section id="screen-prova" class="screen" hidden>
@@ -69,6 +70,19 @@
         <input id="placas-search" type="search" placeholder="Buscar por código ou descrição...">
         <p id="placas-count"></p>
         <div id="placas-grid"></div>
+    </section>
+
+    <section id="screen-infracoes" class="screen" hidden>
+        <input id="infracoes-search" type="search" placeholder="Buscar por descrição ou artigo...">
+        <div id="infracoes-filtros">
+            <button class="filtro-btn filtro-ativo" data-gravidade="todas">Todas</button>
+            <button class="filtro-btn filtro-gravissima" data-gravidade="gravissima">Gravíssima</button>
+            <button class="filtro-btn filtro-grave" data-gravidade="grave">Grave</button>
+            <button class="filtro-btn filtro-media" data-gravidade="media">Média</button>
+            <button class="filtro-btn filtro-leve" data-gravidade="leve">Leve</button>
+        </div>
+        <p id="infracoes-count"></p>
+        <div id="infracoes-container"></div>
     </section>
 
     <script type="module" src="js/app.js"></script>

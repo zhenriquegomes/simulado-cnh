@@ -1,10 +1,11 @@
 import { startProva, cancelProva } from './quiz.js';
 import { initEstudoConfig } from './quiz.js';
 import { initPlacas } from './placas.js';
+import { initInfracoes } from './infracoes.js';
 
 export let questoes = [];
 
-const SCREENS = ['home', 'prova', 'resultado', 'estudo-config', 'estudo-questao', 'placas'];
+const SCREENS = ['home', 'prova', 'resultado', 'estudo-config', 'estudo-questao', 'placas', 'infracoes'];
 
 const SCREEN_TITLES = {
     'prova':          'Modo Prova',
@@ -12,6 +13,7 @@ const SCREEN_TITLES = {
     'estudo-config':  'Modo Estudo',
     'estudo-questao': 'Modo Estudo',
     'placas':         'Galeria de Placas',
+    'infracoes':      'Infrações de Trânsito',
 };
 
 export function showScreen(name) {
@@ -36,6 +38,7 @@ async function init() {
     document.getElementById('btn-prova').addEventListener('click', () => startProva(questoes));
     document.getElementById('btn-estudo').addEventListener('click', () => showScreen('estudo-config'));
     document.getElementById('btn-placas').addEventListener('click', () => initPlacas());
+    document.getElementById('btn-infracoes').addEventListener('click', () => initInfracoes());
 
     document.getElementById('btn-back-home').addEventListener('click', () => {
         cancelProva();

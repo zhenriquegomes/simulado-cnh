@@ -1,0 +1,1644 @@
+[
+  {
+    "artigo": "162, I",
+    "descricao": "Dirigir sem Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 880.41,
+    "observacao": "Fator multiplicador 3x"
+  },
+  {
+    "artigo": "162, II",
+    "descricao": "Dirigir com Carteira Nacional de Habilitação cassada ou com o direito de dirigir suspenso",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 880.41,
+    "observacao": "Fator multiplicador 3x"
+  },
+  {
+    "artigo": "162, III",
+    "descricao": "Dirigir com Carteira Nacional de Habilitação de categoria diferente da exigida para o veículo",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 586.94,
+    "observacao": "Fator multiplicador 2x"
+  },
+  {
+    "artigo": "162, IV",
+    "descricao": "Dirigir sem usar lentes corretoras de visão, aparelho auxiliar de audição, prótese ou adaptações impostas na concessão da CNH",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "162, V",
+    "descricao": "Dirigir com Carteira Nacional de Habilitação ou Permissão para Dirigir com prazo de validade vencido há mais de 30 dias",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "163",
+    "descricao": "Entregar o veículo para ser conduzido por pessoa não habilitada ou com habilitação suspensa",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "164",
+    "descricao": "Permitir que pessoa sob sua responsabilidade ou que esteja sob sua guarda conduza veículo sem habilitação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "165",
+    "descricao": "Dirigir sob a influência de álcool ou de qualquer substância psicoativa que determine dependência",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x. Suspensão do direito de dirigir por 12 meses e recolhimento do documento de habilitação"
+  },
+  {
+    "artigo": "165-A",
+    "descricao": "Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou substância psicoativa",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x. Suspensão do direito de dirigir por 12 meses"
+  },
+  {
+    "artigo": "166",
+    "descricao": "Entregar o veículo para ser conduzido por pessoa, embora habilitada, que esteja impedida de conduzir ou que demonstre, por atos, que não está em condições de fazê-lo com segurança",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "167",
+    "descricao": "Deixar o condutor ou passageiro de usar o cinto de segurança, conforme previsto no art. 65 do CTB",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "168",
+    "descricao": "Transportar criança em veículo automotor em desacordo com as normas de segurança estabelecidas neste Código",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "169",
+    "descricao": "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "170",
+    "descricao": "Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais veículos",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "171",
+    "descricao": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "172",
+    "descricao": "Atirar do veículo ou abandonar na via objetos ou substâncias",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "173",
+    "descricao": "Disputar corrida (racha) — participante",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x. Suspensão do direito de dirigir"
+  },
+  {
+    "artigo": "174",
+    "descricao": "Promover, organizar ou participar de racha (competição não autorizada) — organizador/promotor",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x. Suspensão do direito de dirigir"
+  },
+  {
+    "artigo": "175",
+    "descricao": "Utilizar-se de veículo para demonstrar ou exibir manobra perigosa, arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x"
+  },
+  {
+    "artigo": "176, I",
+    "descricao": "Não prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade ou seus agentes",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "176, II",
+    "descricao": "Afastar-se do local de acidente com vítima para o qual concorreu para a ocorrência sem prestar socorro",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "176, III",
+    "descricao": "Não adotar medidas necessárias para fazer chegar ao conhecimento da autoridade policial o acidente com vítima",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "176, IV",
+    "descricao": "Recusar-se a mover o veículo do local do acidente sem vítima, quando solicitado pela autoridade",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "176, V",
+    "descricao": "Não fornecer à autoridade de trânsito informações necessárias à elaboração do boletim de ocorrência",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "177",
+    "descricao": "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "178",
+    "descricao": "Não remover o veículo envolvido em acidente sem vítimas, quando solicitado pela autoridade de trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "179, I",
+    "descricao": "Efetuar reparação de veículo na faixa de rolamento ou no acostamento das rodovias, exceto quando indispensável",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "179, II",
+    "descricao": "Efetuar reparação de veículo em outras vias, quando possível removê-lo",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "180",
+    "descricao": "Ter seu veículo imobilizado na via por falta de combustível",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, I",
+    "descricao": "Estacionar o veículo nas esquinas e a menos de 5 metros do bordo do alinhamento da via transversal",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, II",
+    "descricao": "Estacionar o veículo afastado da guia (meio-fio) a distância de 50 cm a 1 metro",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "181, III",
+    "descricao": "Estacionar o veículo afastado da guia (meio-fio) a mais de 1 metro",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, IV",
+    "descricao": "Estacionar o veículo em desacordo com as posições estabelecidas neste Código e nas resoluções do CONTRAN",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, V",
+    "descricao": "Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das vias dotadas de acostamento",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "181, VI",
+    "descricao": "Estacionar o veículo junto ou sobre hidrante de incêndio, registro de abastecimento de água ou qualquer equipamento de atendimento de emergência",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, VII",
+    "descricao": "Estacionar o veículo no acostamento, salvo em casos de emergência",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "181, VIII",
+    "descricao": "Estacionar o veículo no passeio ou sobre faixa destinada a pedestre, sobre ciclovia ou ciclofaixa, bem como nas ilhas, refúgios, canteiros centrais, divisores de pista, marcas de canalização, gramados ou jardins públicos",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, IX",
+    "descricao": "Estacionar o veículo em garagem ou local que impeça a entrada ou saída de outros veículos",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, X",
+    "descricao": "Estacionar o veículo de modo que impeça ou dificulte a movimentação de outro veículo",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, XI",
+    "descricao": "Estacionar o veículo ao lado de outro em fila dupla",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, XII",
+    "descricao": "Estacionar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, XIII",
+    "descricao": "Estacionar o veículo em local destinado a parada de veículos de transporte coletivo de passageiros",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, XIV",
+    "descricao": "Estacionar o veículo nos viadutos, pontes e túneis",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, XV",
+    "descricao": "Estacionar o veículo em desacordo com a posição regulamentar na pista (contramão)",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, XVI",
+    "descricao": "Estacionar o veículo em aclive ou declive sem estar devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto total superior a 3.500 kg",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, XVII",
+    "descricao": "Estacionar o veículo em local regulamentado por sinalização específica de estacionamento rotativo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, XVIII",
+    "descricao": "Estacionar o veículo em desrespeito à sinalização indicativa de proibição de estacionamento",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "181, XIX",
+    "descricao": "Estacionar o veículo em locais e horários regulamentados pela placa R-6a (Proibido Parar e Estacionar)",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "181, §2°",
+    "descricao": "Estacionar em vaga reservada a veículos que transportem pessoa portadora de deficiência física ou com dificuldade de locomoção",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "182, I",
+    "descricao": "Parar o veículo nas esquinas e a menos de 5 metros do bordo do alinhamento da via transversal",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "182, II",
+    "descricao": "Parar o veículo afastado da guia (meio-fio) a distância de 50 cm a 1 metro",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "182, III",
+    "descricao": "Parar o veículo afastado da guia (meio-fio) a mais de 1 metro",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "182, IV",
+    "descricao": "Parar o veículo de forma irregular, em desacordo com as normas deste Código",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "182, V",
+    "descricao": "Parar o veículo na pista de rolamento das estradas, rodovias, vias de trânsito rápido e das vias dotadas de acostamento",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "182, VI",
+    "descricao": "Parar o veículo sobre a faixa de pedestres",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "182, VII",
+    "descricao": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "182, VIII",
+    "descricao": "Parar o veículo nos viadutos, pontes e túneis",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "182, IX",
+    "descricao": "Parar o veículo na contramão de direção",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "182, X",
+    "descricao": "Parar o veículo em qualquer outro local proibido pela sinalização ou pela regulamentação de trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "183",
+    "descricao": "Parar o veículo sobre a faixa de pedestres quando houver sinal luminoso regulando o trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "184, I",
+    "descricao": "Transitar em faixa exclusiva de circulação regulamentada na pista da direita",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "184, II",
+    "descricao": "Transitar em faixa ou pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "184, III",
+    "descricao": "Transitar em faixa exclusiva para veículos de transporte coletivo de passageiros",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "185, I",
+    "descricao": "Deixar de conservar o veículo na faixa a ele destinada, quando a via estiver dividida em faixas",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "185, II",
+    "descricao": "Deixar de manter o veículo de velocidade reduzida nas faixas da direita, quando a via estiver dividida",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "186, I",
+    "descricao": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo pelo tempo necessário",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "186, II",
+    "descricao": "Transitar pela contramão de direção em vias com sinalização de regulamentação de sentido único de circulação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "187, I",
+    "descricao": "Transitar com o veículo em horários ou locais de circulação proibidos (rodízio, restrição por tipo de veículo)",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "188",
+    "descricao": "Transitar ao lado de outro veículo, em avenidas de mão dupla com duas ou mais faixas, dificultando a ultrapassagem",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "189",
+    "descricao": "Deixar de dar passagem a veículos de socorro de incêndio e salvamento, de polícia, de fiscalização e de emergência",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "190",
+    "descricao": "Seguir veículo de emergência (incêndio, polícia ou ambulância) em serviço, a distância menor que 50 metros",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "191",
+    "descricao": "Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na iminência de passar um pelo outro ao realizar operação de ultrapassagem",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 2934.70,
+    "observacao": "Fator multiplicador 10x"
+  },
+  {
+    "artigo": "192",
+    "descricao": "Deixar de guardar a distância de segurança lateral e frontal entre o seu veículo e os demais, bem como em relação ao bordo da pista",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "193",
+    "descricao": "Transitar com o veículo em calçadas, passeios, passarelas, ciclovias, ciclofaixas, ilhas, refúgios, ajardinamentos, canteiros centrais e divisores de pista, acostamentos, marcas de canalização, gramados e jardins públicos",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 880.41,
+    "observacao": "Fator multiplicador 3x"
+  },
+  {
+    "artigo": "194",
+    "descricao": "Executar operação de marcha à ré em via pública, salvo nas situações em que a manobra for imprescindível, sem que o condutor tome as cautelas necessárias para não por em perigo os demais usuários",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "195",
+    "descricao": "Desobedecer às ordens emanadas da autoridade competente de trânsito ou de seus agentes",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "196",
+    "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção do veículo, o início da marcha, a realização de manobra ou mudança de direção ou de faixa de circulação",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "197",
+    "descricao": "Deixar de posicionar o veículo, para os fins de conversão, com a devida antecedência à direita para a direita e à esquerda para a esquerda",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "198",
+    "descricao": "Deixar de dar preferência de passagem ao veículo que esteja sendo ultrapassado, após iniciada a operação",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "199",
+    "descricao": "Ultrapassar outro veículo pelo lado direito, salvo quando o veículo da frente indicar que vai virar à esquerda e houver espaço suficiente",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "200",
+    "descricao": "Ultrapassar pela direita veículo de transporte coletivo ou de escolares, parado para embarque ou desembarque de passageiros, salvo quando houver refúgio de segurança para o pedestre",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "201",
+    "descricao": "Deixar de guardar a distância lateral de pelo menos 1,5 metro ao ultrapassar ciclista",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "202, I",
+    "descricao": "Ultrapassar outro veículo pelo acostamento",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "202, II",
+    "descricao": "Ultrapassar outro veículo em interseções e passagens de nível, salvo quando houver sinalização permitindo",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "203, I",
+    "descricao": "Ultrapassar pela contramão outro veículo nas curvas, aclives e declives, sem visibilidade suficiente",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "203, II",
+    "descricao": "Ultrapassar pela contramão outro veículo nas faixas de pedestre",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "203, III",
+    "descricao": "Ultrapassar pela contramão outro veículo nas pontes, viadutos ou túneis",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "203, IV",
+    "descricao": "Ultrapassar pela contramão outro veículo parado em fila junto a sinais luminosos, porteiras, cancelas, cruzamentos ou qualquer outro impedimento à livre circulação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "203, V",
+    "descricao": "Ultrapassar outro veículo onde houver marcação viária longitudinal de divisão de fluxos opostos do tipo linha dupla contínua ou simples contínua amarela",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 1467.35,
+    "observacao": "Fator multiplicador 5x"
+  },
+  {
+    "artigo": "204",
+    "descricao": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de cruzar a pista ou entrar à esquerda, onde não houver local apropriado para operação de retorno",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "205",
+    "descricao": "Ultrapassar ou tentar ultrapassar cortejo, préstito ou formatura, sem autorização da autoridade de trânsito",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "206, I",
+    "descricao": "Executar operação de retorno em locais proibidos pela sinalização",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "206, II",
+    "descricao": "Executar operação de retorno nas curvas, aclives, declives, pontes, viadutos e túneis",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "206, III",
+    "descricao": "Executar operação de retorno passando por cima de calçada, passeio, ilhas, ajardinamento, canteiros de divisões de pista de rolamento, refúgios e faixas de pedestres",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "206, IV",
+    "descricao": "Executar operação de retorno nas interseções, entrando na contramão de direção da via transversal",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "206, V",
+    "descricao": "Executar operação de retorno com prejuízo da livre circulação ou da segurança, ainda que em locais permitidos",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "207",
+    "descricao": "Executar operação de conversão à direita ou à esquerda em locais proibidos pela sinalização",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "208",
+    "descricao": "Avançar o sinal vermelho do semáforo ou o de parada obrigatória",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "209, I",
+    "descricao": "Transpor bloqueio viário sem autorização, exceto em situação de emergência",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "209, II",
+    "descricao": "Deixar de entrar na área de pesagem, quando obrigatório",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "209, III",
+    "descricao": "Evadir-se para não efetuar o pagamento de pedágio",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "210",
+    "descricao": "Transpor bloqueio policial ou de agente de autoridade de trânsito",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "211",
+    "descricao": "Ultrapassar veículo em fila de sinal luminoso ou de cancela de ferrovia",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "212",
+    "descricao": "Deixar de parar o veículo antes de transpor linha férrea, quando não houver sinalização semafórica",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "213, I",
+    "descricao": "Não dar passagem a passeata, préstito, cortejo, formatura ou evento esportivo, quando solicitado",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "213, II",
+    "descricao": "Deixar de parar o veículo por mais tempo do que o necessário à passagem de cortejo ou préstito",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "214, I",
+    "descricao": "Deixar de dar preferência de passagem ao pedestre e ao ciclista que se encontre na faixa a ele destinada",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "214, II",
+    "descricao": "Deixar de dar preferência ao pedestre que não haja concluído a travessia, mesmo que ocorra sinal verde para o veículo",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "214, III",
+    "descricao": "Deixar de dar preferência de passagem ao pedestre portador de deficiência física, criança, idoso e gestante",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "214, IV",
+    "descricao": "Deixar de dar preferência ao pedestre que haja iniciado a travessia mesmo que não haja sinalização a ele destinada",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "214, V",
+    "descricao": "Deixar de dar preferência ao pedestre quando este se encontre na via transversal para onde se dirige o veículo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "215, I",
+    "descricao": "Deixar de dar preferência de passagem em interseção não sinalizada a veículo que esteja circulando por rodovia ou rotatória, ou ao veículo que vier da direita",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "215, II",
+    "descricao": "Deixar de dar preferência de passagem nas interseções com sinalização de regulamentação de Dê a Preferência",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "216",
+    "descricao": "Entrar ou sair de áreas laterais à via, ou de estacionamento e garagens, sem tomar as cautelas necessárias para não perturbar o trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "217",
+    "descricao": "Deixar de dar preferência de passagem a veículo quando estiver saindo de via secundária, local de estacionamento, garagem ou imóvel",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "218, I",
+    "descricao": "Transitar em velocidade superior à máxima permitida para o local em até 20%",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "218, II",
+    "descricao": "Transitar em velocidade superior à máxima permitida para o local em mais de 20% até 50%",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "218, III",
+    "descricao": "Transitar em velocidade superior à máxima permitida para o local em mais de 50%",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 880.41,
+    "observacao": "Fator multiplicador 3x. Suspensão do direito de dirigir"
+  },
+  {
+    "artigo": "219",
+    "descricao": "Transitar em velocidade inferior à metade da velocidade máxima estabelecida para a via, retardando ou obstruindo o trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "220, I",
+    "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando se aproximar de passeatas, aglomerações, cortejos, préstitos e desfiles",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "220, II",
+    "descricao": "Deixar de reduzir a velocidade em locais sinalizados, quando a via apresentar condições que induzam à necessidade de controle de velocidade",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, III",
+    "descricao": "Deixar de reduzir a velocidade ao aproximar-se de calçada ou acostamento",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, IV",
+    "descricao": "Deixar de reduzir a velocidade ao passar ou transitar em interseção não sinalizada",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, V",
+    "descricao": "Deixar de reduzir a velocidade nas vias rurais cuja faixa de domínio não esteja cercada",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, VI",
+    "descricao": "Deixar de reduzir a velocidade nos trechos em curva de pequeno raio",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, VII",
+    "descricao": "Deixar de reduzir a velocidade ao aproximar-se de locais sinalizados com advertência de obras ou trabalhadores na pista",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, VIII",
+    "descricao": "Deixar de reduzir a velocidade sob chuva, neblina, cerração ou ventos fortes",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, IX",
+    "descricao": "Deixar de reduzir a velocidade quando houver má visibilidade",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, X",
+    "descricao": "Deixar de reduzir a velocidade quando o pavimento se apresentar escorregadio, defeituoso ou avariado",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, XI",
+    "descricao": "Deixar de reduzir a velocidade à aproximação de animais na pista",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, XII",
+    "descricao": "Deixar de reduzir a velocidade de forma compatível com a segurança do trânsito em declive",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, XIII",
+    "descricao": "Deixar de reduzir a velocidade ao ultrapassar ciclista",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "220, XIV",
+    "descricao": "Deixar de reduzir a velocidade nas proximidades de escolas, hospitais, estações de embarque e desembarque de passageiros ou onde haja intensa movimentação de pedestres",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "221",
+    "descricao": "Usar no veículo placas de identificação em desacordo com as especificações e modelos estabelecidos pelo CONTRAN",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "222",
+    "descricao": "Deixar de ligar os dispositivos giroflex e a sirene quando em serviço de emergência (veículos de urgência)",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "223",
+    "descricao": "Usar o farol em desacordo com as especificações e normas: farol desregulado ou luz alta de forma inadequada",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "224",
+    "descricao": "Usar luz alta em via suficientemente iluminada, causando ofuscamento",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "225, I",
+    "descricao": "Deixar de sinalizar adequadamente a remoção de veículo acidentado ou avariado na via",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "225, II",
+    "descricao": "Deixar de sinalizar carga ou fragmento de carga que haja caído no leito da via",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "226",
+    "descricao": "Não retirar da via a sinalização de emergência ou temporária após o evento que a justificou",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "227, I",
+    "descricao": "Usar buzina de forma irregular ou desnecessária",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "227, II",
+    "descricao": "Usar buzina de forma prolongada",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "227, III",
+    "descricao": "Usar buzina no período compreendido entre 22 horas de um dia e 6 horas do dia seguinte",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "227, IV",
+    "descricao": "Usar buzina em locais e nas condições proibidas pelo órgão ou entidade com circunscrição sobre a via",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "227, V",
+    "descricao": "Usar buzina em desacordo com as especificações do CONTRAN",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "228",
+    "descricao": "Usar no veículo equipamento de som acima do nível de ruído estabelecido pelo CONTRAN",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "229",
+    "descricao": "Usar no veículo alarme ou qualquer equipamento que produza sons estridentes ou sirenes em desacordo com a regulamentação",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "230, I",
+    "descricao": "Usar no veículo placa de identificação com inscrição ilegível, suprimida, com caracteres alterados ou em desacordo com as especificações",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, II",
+    "descricao": "Transportar passageiro no compartimento de carga, em local e de modo incompatíveis com a segurança do transporte de pessoas",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, III",
+    "descricao": "Usar no veículo dispositivo detector ou bloqueador de radares (inibidor de sinal)",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, IV",
+    "descricao": "Conduzir veículo sem a devida placa de identificação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, V",
+    "descricao": "Conduzir veículo não registrado ou com registro cancelado",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, VI",
+    "descricao": "Conduzir veículo com placa de identificação ilegível, suja, danificada ou com caracteres não visíveis",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "230, VII",
+    "descricao": "Conduzir veículo com cor, características ou configuração alteradas sem a devida comunicação ao órgão executivo de trânsito",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, VIII",
+    "descricao": "Conduzir veículo não submetido à inspeção de segurança e de emissão de poluentes, quando obrigatória",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, IX",
+    "descricao": "Conduzir veículo sem os equipamentos obrigatórios ou com equipamento obrigatório em mau funcionamento",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, X",
+    "descricao": "Conduzir veículo com equipamento em desacordo com as especificações do CONTRAN",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XI",
+    "descricao": "Conduzir veículo com descarga livre ou silenciador ineficiente ou substituído por outro que provoque ruído excessivo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XII",
+    "descricao": "Conduzir veículo com equipamento ou acessório proibido, que reduza a eficiência dos sistemas de segurança",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XIII",
+    "descricao": "Conduzir veículo com sistema de iluminação alterado, sem atender às especificações do CONTRAN",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XIV",
+    "descricao": "Conduzir veículo com registrador de velocidade e tempo viciado ou em desacordo com as especificações",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XV",
+    "descricao": "Conduzir veículo com adesivos ou pinturas na lataria, nos vidros ou em quaisquer outros pontos do veículo que perturbem a atenção dos demais condutores",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XVI",
+    "descricao": "Conduzir veículo com vidros com película ou insulfilm em desacordo com as especificações do CONTRAN",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XVII",
+    "descricao": "Conduzir veículo com cortinas ou quaisquer outros dispositivos que impeçam ou dificultem a visibilidade do condutor",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XVIII",
+    "descricao": "Conduzir veículo em mau estado de conservação, que coloque em risco a segurança do condutor, de terceiros ou que provoque danos às vias",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XIX",
+    "descricao": "Conduzir o veículo sem acionar o limpador de para-brisa sob chuva",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XX",
+    "descricao": "Conduzir veículo de transporte escolar sem a devida autorização do órgão competente",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "230, XXI",
+    "descricao": "Conduzir veículo sem a tara identificada quando exigida",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "230, XXII",
+    "descricao": "Conduzir veículo com defeito no sistema de iluminação ou de sinalização",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "230, XXIII",
+    "descricao": "Conduzir veículo em desacordo com os intervalos de descanso estabelecidos na legislação",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "231, I",
+    "descricao": "Transitar com o veículo ou combinação de veículos cujo peso ou dimensões contrariem os limites estabelecidos, causando danos à via",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "231, II",
+    "descricao": "Derramar combustível, lubrificante ou qualquer outro produto que torne a via escorregadia",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "231, III",
+    "descricao": "Transitar com veículo cujos índices de emissão de poluentes estejam acima dos limites legais estabelecidos",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "231, IV",
+    "descricao": "Transitar com o veículo ou combinação de veículos cujas dimensões (largura, comprimento ou altura) excedam os limites legais sem a devida autorização",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "231, V",
+    "descricao": "Transitar com excesso de peso, sem a devida autorização especial de trânsito",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "231, VI",
+    "descricao": "Transitar em desacordo com as condições estabelecidas na autorização especial de trânsito",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "231, VII",
+    "descricao": "Conduzir veículo com a lotação de passageiros excedente à estabelecida pelo fabricante",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "231, VIII",
+    "descricao": "Realizar transporte remunerado de passageiros ou de carga sem a devida autorização do órgão competente",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "231, IX",
+    "descricao": "Conduzir veículo em declive com o motor desligado ou desengrenado",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "231, X",
+    "descricao": "Exceder a capacidade máxima de tração do veículo, colocando em risco a segurança",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "232",
+    "descricao": "Conduzir o veículo sem os documentos de porte obrigatório: Certificado de Registro e Licenciamento do Veículo (CRLV) e Carteira Nacional de Habilitação",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "233",
+    "descricao": "Deixar de efetuar o registro do veículo no prazo de 30 dias após sua aquisição",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "234",
+    "descricao": "Falsificar ou adulterar documento de habilitação ou registro de veículo",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "235",
+    "descricao": "Transportar pessoas em compartimentos não destinados para esse fim ou em partes externas do veículo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "236",
+    "descricao": "Rebocar outro veículo por meio de cabo ou corda, exceto em casos de emergência",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "237",
+    "descricao": "Conduzir veículo sem a simbologia ou identificação exigida pela legislação para determinado tipo de transporte",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "238",
+    "descricao": "Recusar-se a entregar os documentos à autoridade de trânsito ou seus agentes, quando regularmente solicitado",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "239",
+    "descricao": "Retirar o veículo retido por autoridade de trânsito sem a devida liberação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "240",
+    "descricao": "Deixar de promover a baixa do veículo junto ao órgão executivo de trânsito no prazo estabelecido",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "241",
+    "descricao": "Deixar de comunicar à repartição de trânsito mudança de domicílio ou de endereço no prazo de 30 dias",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 88.38
+  },
+  {
+    "artigo": "242",
+    "descricao": "Fazer falsa declaração de domicílio para fins de registro de veículo ou de habilitação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "243",
+    "descricao": "Deixar a empresa seguradora de comunicar ao órgão executivo de trânsito a perda total do veículo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "244, I",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção, em conformidade com as especificações aprovadas pelo CONTRAN",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "244, II",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor transportando passageiro sem capacete de segurança, ou fora do assento suplementar colocado atrás do condutor ou em carro lateral",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "244, III",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor fazendo malabarismo ou equilibrando-se apenas em uma roda",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "244, IV",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor com o farol apagado durante o dia",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "244, V",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor transportando criança menor de sete anos ou que não tenha condições de cuidar da própria segurança",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "244, VI",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor rebocando outro veículo, salvo exceções previstas",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "244, VII",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor sem segurar o guidon com ambas as mãos, salvo eventualmente para indicação de manobras",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "244, VIII",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor com carga incompatível com as especificações técnicas do veículo",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "244, IX",
+    "descricao": "Conduzir motocicleta, motoneta e ciclomotor realizando transporte remunerado de passageiros sem autorização",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "245",
+    "descricao": "Utilizar a via como depósito de mercadorias ou materiais de construção, sem autorização e sinalização adequadas",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "246",
+    "descricao": "Deixar de sinalizar obstáculo à livre circulação ou à segurança dos usuários das vias",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "247",
+    "descricao": "Conduzir veículos de tração animal em desacordo com as normas estabelecidas neste Código",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "248",
+    "descricao": "Transportar carga em quantidade superior à capacidade do veículo de tração animal",
+    "gravidade": "grave",
+    "pontos": 5,
+    "valor": 195.23
+  },
+  {
+    "artigo": "249",
+    "descricao": "Conduzir o veículo sem acender a luz de posição no período noturno ou em condições climáticas de baixa visibilidade",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, I-a",
+    "descricao": "Conduzir veículo sem acender a luz baixa no período noturno",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, I-b",
+    "descricao": "Conduzir veículo sem acender a luz baixa nos túneis ou sempre que as condições de visibilidade exigirem, mesmo durante o dia",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, I-c",
+    "descricao": "Conduzir veículo coletivo sem acender a luz baixa durante o dia em rodovias",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, I-d",
+    "descricao": "Conduzir ciclomotor sem acender a luz baixa durante o dia",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, II",
+    "descricao": "Conduzir veículo sem acender as luzes de posição sob chuva ou neblina",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "250, III",
+    "descricao": "Conduzir veículo sem manter iluminada a placa traseira no período noturno",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "251, I",
+    "descricao": "Usar o pisca-alerta em situações e de forma diferente da estabelecida pelo CONTRAN",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "251, II",
+    "descricao": "Usar sinal de luz ou dispositivo luminoso de forma irregular, prejudicando outros condutores",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, I",
+    "descricao": "Conduzir veículo com o braço fora da janela, salvo para indicação de manobras",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, II",
+    "descricao": "Conduzir veículo transportando pessoas em número superior à capacidade estabelecida pelo fabricante",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, III",
+    "descricao": "Conduzir veículo com incapacidade física, psíquica ou por outro impedimento que coloque em risco a segurança",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, IV",
+    "descricao": "Conduzir veículo usando calçado que não seja adequado à operação de seus comandos",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, V",
+    "descricao": "Conduzir veículo com apenas uma das mãos, exceto para indicar mudança de direção, acionar equipamentos e realizar as manobras necessárias",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "252, V §único",
+    "descricao": "Manusear aparelho de comunicação portátil (celular) enquanto conduz o veículo, exceto viva-voz ou mãos-livres",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "252, VI",
+    "descricao": "Conduzir veículo usando fone nos ouvidos conectados a aparelho sonoro ou de comunicação",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  },
+  {
+    "artigo": "253",
+    "descricao": "Bloquear a via com o veículo, dificultando ou impedindo a circulação",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 293.47
+  },
+  {
+    "artigo": "253-A",
+    "descricao": "Usar veículo para interromper ou perturbar a livre circulação na via pública, sem autorização do órgão competente",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 8804.10,
+    "observacao": "Fator multiplicador 30x"
+  },
+  {
+    "artigo": "253-A, §1°",
+    "descricao": "Organizar, promover ou coordenar a interrupção ou perturbação da livre circulação na via pública sem autorização",
+    "gravidade": "gravissima",
+    "pontos": 7,
+    "valor": 17608.20,
+    "observacao": "Fator multiplicador 60x"
+  },
+  {
+    "artigo": "254, I",
+    "descricao": "Pedestre: andar fora da faixa ou do passeio destinado ao tráfego de pedestres",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "254, II",
+    "descricao": "Pedestre: cruzar a pista de rolamento nos viadutos, pontes e túneis",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "254, III",
+    "descricao": "Pedestre: atravessar a pista de rolamento fora da faixa de pedestres, quando existente",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "254, IV",
+    "descricao": "Pedestre: utilizar-se da via para a prática de exercício físico ou desportivo, em local não destinado a esse fim",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "254, V",
+    "descricao": "Pedestre: atravessar a via fora da faixa de pedestres, de forma a comprometer a segurança",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "254, VI",
+    "descricao": "Pedestre: desobedecer à sinalização de trânsito específica",
+    "gravidade": "leve",
+    "pontos": 3,
+    "valor": 44.19
+  },
+  {
+    "artigo": "255",
+    "descricao": "Conduzir bicicleta em passeio público (calçada) onde não seja permitido, ou de forma a colocar em risco a segurança dos pedestres",
+    "gravidade": "media",
+    "pontos": 4,
+    "valor": 130.16
+  }
+]

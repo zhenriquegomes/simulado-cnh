@@ -520,6 +520,177 @@ button:disabled {
     color: var(--gray-800);
 }
 
+#infracoes-search {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    font-size: 1rem;
+    margin-bottom: 8px;
+    background: var(--white);
+    outline: none;
+}
+
+#infracoes-search:focus {
+    border-color: var(--blue);
+}
+
+#infracoes-filtros {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+}
+
+.filtro-btn {
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: .82rem;
+    font-weight: 600;
+    border: 2px solid transparent;
+    background: var(--gray-100);
+    color: var(--gray-600);
+    transition: background .15s, color .15s, border-color .15s;
+}
+
+.filtro-btn:hover {
+    background: var(--gray-200);
+}
+
+.filtro-btn.filtro-ativo[data-gravidade="todas"]      { background: var(--gray-800); color: var(--white); }
+.filtro-btn.filtro-ativo[data-gravidade="gravissima"] { background: var(--red);      color: var(--white); }
+.filtro-btn.filtro-ativo[data-gravidade="grave"]      { background: var(--yellow);   color: var(--white); }
+.filtro-btn.filtro-ativo[data-gravidade="media"]      { background: var(--blue);     color: var(--white); }
+.filtro-btn.filtro-ativo[data-gravidade="leve"]       { background: var(--green);    color: var(--white); }
+
+#infracoes-count {
+    font-size: .85rem;
+    color: var(--gray-400);
+    margin-bottom: 20px;
+}
+
+#infracoes-container {
+    margin-bottom: 24px;
+}
+
+.infracoes-section {
+    margin-bottom: 32px;
+}
+
+.infracoes-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 14px;
+    border-radius: var(--radius);
+    margin-bottom: 12px;
+}
+
+.infracoes-header-gravissima { background: var(--red); }
+.infracoes-header-grave      { background: var(--yellow); }
+.infracoes-header-media      { background: var(--blue); }
+.infracoes-header-leve       { background: var(--green); }
+
+.infracoes-section-header h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--white);
+    margin-bottom: 0;
+}
+
+.infracoes-section-count {
+    font-size: .82rem;
+    color: var(--white);
+    opacity: .9;
+}
+
+.infracoes-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+.infracao-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+    border-left: 4px solid transparent;
+}
+
+.infracao-gravissima { border-left-color: var(--red); }
+.infracao-grave      { border-left-color: var(--yellow); }
+.infracao-media      { border-left-color: var(--blue); }
+.infracao-leve       { border-left-color: var(--green); }
+
+.infracao-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    gap: 8px;
+}
+
+.infracao-badge {
+    font-size: .72rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 12px;
+    color: var(--white);
+    letter-spacing: .3px;
+    white-space: nowrap;
+}
+
+.infracao-badge-gravissima { background: var(--red); }
+.infracao-badge-grave      { background: var(--yellow); }
+.infracao-badge-media      { background: var(--blue); }
+.infracao-badge-leve       { background: var(--green); }
+
+.infracao-artigo {
+    font-size: .8rem;
+    font-weight: 600;
+    color: var(--gray-400);
+    white-space: nowrap;
+}
+
+.infracao-descricao {
+    font-size: .9rem;
+    color: var(--gray-800);
+    margin-bottom: 6px;
+    line-height: 1.4;
+}
+
+.infracao-obs {
+    font-size: .8rem;
+    color: var(--gray-600);
+    font-style: italic;
+    margin-bottom: 8px;
+}
+
+.infracao-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 8px;
+    border-top: 1px solid var(--gray-100);
+    margin-top: 4px;
+}
+
+.infracao-valor {
+    font-size: .9rem;
+    font-weight: 700;
+    color: var(--gray-800);
+}
+
+.infracao-pontos {
+    font-size: .8rem;
+    font-weight: 600;
+    color: var(--gray-600);
+    background: var(--gray-100);
+    padding: 2px 8px;
+    border-radius: 12px;
+}
+
 @media (max-width: 480px) {
     h1 { font-size: 1.5rem; }
     #resultado-placar { font-size: 2.2rem; }
