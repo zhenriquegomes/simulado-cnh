@@ -138,10 +138,11 @@ export function initEstudoConfig(questoes) {
         2: 'Escolhas e Consequências',
         3: 'Na Direção da Segurança',
         4: 'Cuidar, Agir e Preservar',
+        5: 'DETRAN SP',
     };
     const container = document.getElementById('estudo-modulos');
     container.innerHTML = '';
-    [1, 2, 3, 4].forEach(n => {
+    [1, 2, 3, 4, 5].forEach(n => {
         const label = document.createElement('label');
         label.innerHTML = `<input type="checkbox" value="${n}" checked> Módulo ${n} — ${moduloNames[n]}`;
         container.appendChild(label);
