@@ -16,7 +16,12 @@
 
     <section id="screen-home" class="screen">
         <h1>Simulado CNH</h1>
-        <p>1.482 questões oficiais do BNQ</p>
+        <p id="home-subtitle"></p>
+        <div id="fonte-filtros">
+            <button class="fonte-btn fonte-ativa" data-fonte="ambos">Todas</button>
+            <button class="fonte-btn" data-fonte="bnq">BNQ</button>
+            <button class="fonte-btn" data-fonte="detran">DETRAN SP</button>
+        </div>
         <button id="btn-prova">Modo Prova</button>
         <button id="btn-estudo">Modo Estudo</button>
         <button id="btn-placas">Galeria de Placas</button>

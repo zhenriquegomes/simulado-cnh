@@ -122,37 +122,52 @@ function renderResultado(state) {
         const correct = chosen === q.gabarito;
         const div = document.createElement('div');
         div.className = `resultado-item ${correct ? 'correct' : 'wrong'}`;
+
+        const altsHtml = ['A', 'B', 'C', 'D']
+            .filter(l => q.alternativas[l])
+            .map(l => {
+                let cls = 'resultado-alt';
+                if (l === q.gabarito) cls += ' resultado-alt-correct';
+                else if (l === chosen) cls += ' resultado-alt-wrong';
+                return `<div class="${cls}"><strong>${l})</strong> ${q.alternativas[l]}</div>`;
+            }).join('');
+
         div.innerHTML = `
             <p><strong>${i + 1}.</strong> ${q.enunciado}</p>
             ${q.imagem_placa ? `<img src="${q.imagem_placa}" class="placa-sm" alt="${q.codigo_placa}" onerror="this.style.display='none'">` : ''}
-            <p>Sua resposta: <strong>${chosen || '—'}</strong> | Gabarito: <strong>${q.gabarito}</strong></p>
-            <p class="explicacao">${q.explicacao}</p>
+            <div class="resultado-alts">${altsHtml}</div>
+            ${q.explicacao ? `<p class="explicacao">${q.explicacao}</p>` : ''}
         `;
         listEl.appendChild(div);
     });
 }
 
+const MODULO_NAMES = {
+    1: 'Placas, Cores e Caminhos',
+    2: 'Escolhas e Consequências',
+    3: 'Na Direção da Segurança',
+    4: 'Cuidar, Agir e Preservar',
+    5: 'DETRAN SP',
+};
+
+let estudoQuestoes = [];
+
 export function initEstudoConfig(questoes) {
-    const moduloNames = {
-        1: 'Placas, Cores e Caminhos',
-        2: 'Escolhas e Consequências',
-        3: 'Na Direção da Segurança',
-        4: 'Cuidar, Agir e Preservar',
-        5: 'DETRAN SP',
-    };
+    estudoQuestoes = questoes;
+    const modulos = [...new Set(questoes.map(q => q.modulo))].sort((a, b) => a - b);
     const container = document.getElementById('estudo-modulos');
     container.innerHTML = '';
-    [1, 2, 3, 4, 5].forEach(n => {
+    modulos.forEach(n => {
         const label = document.createElement('label');
-        label.innerHTML = `<input type="checkbox" value="${n}" checked> Módulo ${n} — ${moduloNames[n]}`;
+        label.innerHTML = `<input type="checkbox" value="${n}" checked> Módulo ${n} — ${MODULO_NAMES[n] ?? n}`;
         container.appendChild(label);
     });
 
-    document.getElementById('btn-iniciar-estudo').addEventListener('click', () => {
+    document.getElementById('btn-iniciar-estudo').onclick = () => {
         const checked = [...container.querySelectorAll('input:checked')].map(i => +i.value);
         if (!checked.length) return;
-        startEstudo(questoes, checked);
-    });
+        startEstudo(estudoQuestoes, checked);
+    };
 }
 
 function startEstudo(questoes, modulos) {

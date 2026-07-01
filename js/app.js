@@ -5,6 +5,19 @@ import { initInfracoes } from './infracoes.js';
 
 export let questoes = [];
 
+let fonteAtiva = 'ambos';
+
+function getQuestoesFiltradas() {
+    if (fonteAtiva === 'bnq')    return questoes.filter(q => q.modulo <= 4);
+    if (fonteAtiva === 'detran') return questoes.filter(q => q.modulo === 5);
+    return questoes;
+}
+
+function atualizarSubtitulo() {
+    const n = getQuestoesFiltradas().length;
+    document.getElementById('home-subtitle').textContent = `${n.toLocaleString('pt-BR')} questões`;
+}
+
 const SCREENS = ['home', 'prova', 'resultado', 'estudo-config', 'estudo-questao', 'placas', 'infracoes'];
 
 const SCREEN_TITLES = {
@@ -35,8 +48,20 @@ async function init() {
         return;
     }
 
-    document.getElementById('btn-prova').addEventListener('click', () => startProva(questoes));
-    document.getElementById('btn-estudo').addEventListener('click', () => showScreen('estudo-config'));
+    document.querySelectorAll('.fonte-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            fonteAtiva = btn.dataset.fonte;
+            document.querySelectorAll('.fonte-btn').forEach(b => b.classList.remove('fonte-ativa'));
+            btn.classList.add('fonte-ativa');
+            atualizarSubtitulo();
+        });
+    });
+
+    document.getElementById('btn-prova').addEventListener('click', () => startProva(getQuestoesFiltradas()));
+    document.getElementById('btn-estudo').addEventListener('click', () => {
+        initEstudoConfig(getQuestoesFiltradas());
+        showScreen('estudo-config');
+    });
     document.getElementById('btn-placas').addEventListener('click', () => initPlacas());
     document.getElementById('btn-infracoes').addEventListener('click', () => initInfracoes());
 
@@ -45,7 +70,7 @@ async function init() {
         showScreen('home');
     });
 
-    initEstudoConfig(questoes);
+    atualizarSubtitulo();
     showScreen('home');
 }
 
