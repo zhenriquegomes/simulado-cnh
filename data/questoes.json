@@ -26762,7 +26762,7 @@
       "C": "se destina, exclusivamente, para a circulação de caminhões",
       "D": "se destina à circulação de veículos de transporte de produtos perecíveis"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -26780,7 +26780,7 @@
       "C": "não deve virar à direita",
       "D": "deve virar à direita"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -26906,7 +26906,7 @@
       "C": "pode colocar o veículo na extensão da via aos sábados, domingos e feriados",
       "D": "em nenhuma hipótese pode parar ou estacionar o veículo na extensão da via indicada pela sinalização"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -26960,7 +26960,7 @@
       "C": "clima e/ou ambiente e condutor",
       "D": "clima e/ou ambiente e veículo"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27140,7 +27140,7 @@
       "C": "é obrigatório seguir à esquerda",
       "D": "é obrigatório seguir em frente ou à direita"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27176,7 +27176,7 @@
       "C": "deve virar à esquerda na via",
       "D": "não deve retornar na via"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27194,7 +27194,7 @@
       "C": "leve",
       "D": "gravíssima"
     },
-    "gabarito": "B",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27248,7 +27248,7 @@
       "C": "à ponte estreita na pista",
       "D": "ao alargamento da pista à esquerda"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -27338,7 +27338,7 @@
       "C": "sentido proibido de circulação da via",
       "D": "conversão à direita no cruzamento"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -27446,7 +27446,7 @@
       "C": "a via passa a ter mão dupla",
       "D": "há bifurcação da via"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27608,7 +27608,7 @@
       "C": "leve",
       "D": "gravíssima"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27662,7 +27662,7 @@
       "C": "curva acentuada em S à direita",
       "D": "estreitamento de pista à direita"
     },
-    "gabarito": "B",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -27734,7 +27734,7 @@
       "C": "serviço telefônico, restaurante e terminal rodoviário",
       "D": "serviço telefônico, restaurante e terminal ferroviário"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -27770,7 +27770,7 @@
       "C": "30 km/h",
       "D": "50 km/h"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -27914,7 +27914,7 @@
       "C": "parada de ônibus, borracheiro, informação turística e pedágio",
       "D": "terminal rodoviário, borracheiro, informação turística e pedágio"
     },
-    "gabarito": "C",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -28004,7 +28004,7 @@
       "C": "é obrigatório seguir em frente ou à direita",
       "D": "é obrigatório seguir em frente ou à esquerda"
     },
-    "gabarito": "C",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -28598,7 +28598,7 @@
       "C": "à área com riscos de acidente por possibilidade de cascalho na via",
       "D": "à pista irregular"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -28886,7 +28886,7 @@
       "C": "passagem sinalizada de pedestres",
       "D": "alto índice de atropelamento"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -29822,7 +29822,7 @@
       "C": "é proibida a circulação de ciclistas e de pedestres",
       "D": "pedestres devem andar lado a lado com os ciclistas na via"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -30002,7 +30002,7 @@
       "C": "leve",
       "D": "média"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -30146,7 +30146,7 @@
       "C": "a via apresenta curva em S",
       "D": "a via apresenta curva à direita"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -30614,7 +30614,7 @@
       "C": "55 km/h",
       "D": "60 km/h"
     },
-    "gabarito": "D",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -30668,7 +30668,7 @@
       "C": "ter 16 (dezesseis) anos completos, com emancipação judicial",
       "D": "ter 18 (dezoito) anos completos"
     },
-    "gabarito": "D",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -30848,7 +30848,7 @@
       "C": "ao acesso de veículos pela via lateral à esquerda",
       "D": "à bifurcação da via"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -30884,7 +30884,7 @@
       "C": "ônibus na via",
       "D": "ônibus urbanos"
     },
-    "gabarito": "B",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -31172,7 +31172,7 @@
       "C": "entroncamento com via lateral à esquerda, com risco de acidente",
       "D": "entroncamento com via lateral à direita, com risco de acidente"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -31478,7 +31478,7 @@
       "C": "aproximação de área de circulação de tratores e máquinas",
       "D": "circulação exclusiva de tratores e máquinas"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -31532,7 +31532,7 @@
       "C": "é proibida a circulação de ciclistas e permitida a de pedestres",
       "D": "é permitida a circulação de ciclistas e de pedestres"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -31550,7 +31550,7 @@
       "C": "de 4 em 4 anos",
       "D": "de 3 em 3 anos"
     },
-    "gabarito": "D",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -31838,7 +31838,7 @@
       "C": "não ter cometido nenhuma infração grave ou gravíssima durante os últimos 6 (seis) meses",
       "D": "não ter cometido nenhuma infração grave ou gravíssima ou ser reincidente em infrações médias ou ainda ter cometido quatro infrações leves durante os últimos 12 (doze) meses"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -31892,7 +31892,7 @@
       "C": "60 km/h",
       "D": "80 km/h"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -32036,7 +32036,7 @@
       "C": "gravíssima",
       "D": "leve"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -32054,7 +32054,7 @@
       "C": "apesar de proibido o trânsito de caminhões, o condutor deve manter a atenção em relação ao eventual desrespeito da sinalização",
       "D": "apesar de proibido o trânsito de tratores e máquinas, o condutor deve manter a atenção em relação ao eventual desrespeito da sinalização"
     },
-    "gabarito": "C",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -32144,7 +32144,7 @@
       "C": "grave",
       "D": "média"
     },
-    "gabarito": "C",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -32396,7 +32396,7 @@
       "C": "terminal rodoviário",
       "D": "terminal de passageiros"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -32666,7 +32666,7 @@
       "C": "reduzir a velocidade, pois a via apresenta curva à direita, o que favorece a ocorrência de acidentes",
       "D": "reduzir a velocidade, somente se a pista estiver molhada"
     },
-    "gabarito": "B",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -32720,7 +32720,7 @@
       "C": "multa e apreensão do veículo",
       "D": "multa e suspensão do direito de dirigir"
     },
-    "gabarito": "C",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -32810,7 +32810,7 @@
       "C": "faixa de travessia de pedestres",
       "D": "via interditada para área de lazer"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -32846,7 +32846,7 @@
       "C": "à altura máxima do veículo, com ou sem carga, pois a via à frente tem dimensão limitada",
       "D": "a trecho da via com estreitamento da pista adiante, pois isso limita a passagem de veículos maiores"
     },
-    "gabarito": "C",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -32954,7 +32954,7 @@
       "C": "a 60 metros do veículo ou, aproximadamente, 60 passos",
       "D": "a 80 metros do veículo ou, aproximadamente, 80 passos"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -33080,7 +33080,7 @@
       "C": "ponte estreita",
       "D": "ponte móvel"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -33116,7 +33116,7 @@
       "C": "à curva acentuada da via à frente",
       "D": "às condições escorregadias da via à frente"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -33332,7 +33332,7 @@
       "C": "o estacionamento de qualquer veículo de duas rodas",
       "D": "a circulação de motocicletas, motonetas e ciclomotores"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -33350,7 +33350,7 @@
       "C": "proximidade de acesso a área de reserva ambiental",
       "D": "possibilidade de travessia de gado na via"
     },
-    "gabarito": "D",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -33440,7 +33440,7 @@
       "C": "curva à direita",
       "D": "curva em S à esquerda"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -34160,7 +34160,7 @@
       "C": "pois há risco de desmoronamento do terreno do lado esquerdo da via",
       "D": "ao declive do terreno e à possibilidade de existirem veículos em ambos os sentidos"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -34178,7 +34178,7 @@
       "C": "sentido único",
       "D": "contramão de direção"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -34304,7 +34304,7 @@
       "C": "deve mudar de faixa ou pista de trânsito da direita para a esquerda",
       "D": "deve mudar de faixa ou pista de trânsito da esquerda para a direita"
     },
-    "gabarito": "B",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -34646,7 +34646,7 @@
       "C": "infração gravíssima, penalidade multa",
       "D": "infração grave, penalidade multa e apreensão do veículo"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -34952,7 +34952,7 @@
       "C": "manter-se atento às ordens dos agentes federais, pois se trata de posto policial, onde a parada é obrigatória",
       "D": "manter-se atento às ordens dos agentes de polícia, pois se trata de área militar, onde a parada é obrigatória"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35006,7 +35006,7 @@
       "C": "circulação exclusiva de bicicletas",
       "D": "circulação proibida de bicicletas"
     },
-    "gabarito": "D",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -35042,7 +35042,7 @@
       "C": "faixa reversível na via",
       "D": "sentido único de direção na via"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35060,7 +35060,7 @@
       "C": "conta com uma faixa exclusiva, à frente, do lado esquerdo da via",
       "D": "está obrigado a circular pelo lado direito da via"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35114,7 +35114,7 @@
       "C": "a possibilidade de desmoronamento de terreno à esquerda da via, com risco de acidente; nessa condição, o condutor deve ficar atento",
       "D": "trecho da via em aclive acentuado; nessa condição, o condutor deve utilizar marcha reduzida"
     },
-    "gabarito": "A",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35150,7 +35150,7 @@
       "C": "está obrigado a circular pelo lado direito da via",
       "D": "conta com uma faixa exclusiva, à frente, do lado esquerdo da via"
     },
-    "gabarito": "D",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -35168,7 +35168,7 @@
       "C": "de 3 em 3 anos",
       "D": "de 4 em 4 anos"
     },
-    "gabarito": "B",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -35204,7 +35204,7 @@
       "C": "não ter cometido nenhuma infração grave ou gravíssima durante os últimos 6 (seis) meses",
       "D": "não ter cometido nenhuma infração média ou gravíssima durante os últimos 12 (doze) meses"
     },
-    "gabarito": "B",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -35312,7 +35312,7 @@
       "C": "obras na pista com risco de acidente",
       "D": "acidente na pista"
     },
-    "gabarito": "C",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35546,7 +35546,7 @@
       "C": "com barreira entre duas vias, com risco de acidente",
       "D": "proibida na via à frente devido ao risco de acidente"
     },
-    "gabarito": "B",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -35726,7 +35726,7 @@
       "C": "a 100 metros do veículo ou, aproximadamente, 100 passos",
       "D": "a 80 metros do veículo ou, aproximadamente, 80 passos"
     },
-    "gabarito": "C",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -35762,7 +35762,7 @@
       "C": "curva acentuada em S à esquerda",
       "D": "pista sinuosa"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -35870,7 +35870,7 @@
       "C": "à presença de aclive à frente",
       "D": "à presença de redutores de velocidade"
     },
-    "gabarito": "D",
+    "gabarito": "B",
     "explicacao": ""
   },
   {
@@ -36446,7 +36446,7 @@
       "C": "média, com quatro pontos na carteira",
       "D": "grave, com sete pontos na carteira"
     },
-    "gabarito": "D",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -36752,7 +36752,7 @@
       "C": "gravíssima",
       "D": "média"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -36788,7 +36788,7 @@
       "C": "passagem obrigatória",
       "D": "sentido único de circulação da via"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -36896,7 +36896,7 @@
       "C": "gravíssima",
       "D": "leve"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "explicacao": ""
   },
   {
@@ -37022,7 +37022,7 @@
       "C": "leve, com sete pontos na CNH do condutor",
       "D": "gravíssima, com nove pontos na CNH do condutor"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
@@ -37058,7 +37058,7 @@
       "C": "multa e retenção do veículo",
       "D": "multa, apenas"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -37994,7 +37994,7 @@
       "C": "cruzamento de duas vias",
       "D": "bifurcação da via"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "explicacao": ""
   },
   {
@@ -38264,7 +38264,7 @@
       "C": "nível da via com ferrovia, sem barreira",
       "D": "desnível da via com ferrovia, com ou sem barreira"
     },
-    "gabarito": "C",
+    "gabarito": "A",
     "explicacao": ""
   },
   {
